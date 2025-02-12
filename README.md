@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-## PGP key
+## Interests
+* Computer Networks
+* Operating Systems
+* Cyber Security
+
+## Communication
 You can download my PGP key [here](https://mail-api.proton.me/pks/lookup?op=get&search=kristjan@ragnarsson.im) from protonmail keyserver.
 <!--
 **Kristjan-O-Ragnarsson/Kristjan-O-Ragnarsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
