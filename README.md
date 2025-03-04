@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## Interests
+* Cyber Security
 * Computer Networks
 * Operating Systems
-* Cyber Security
 
 ## Communication
 You can download my PGP key [here](https://mail-api.proton.me/pks/lookup?op=get&search=kristjan@ragnarsson.im).
